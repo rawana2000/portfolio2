@@ -1,0 +1,9 @@
+Rec1 10,20,200,Black
+Rec2 4,2,8,Red
+Rec3 60,60,3600,Blue
+Rec4 90,40,3000,Yellow
+Rec5 40,50,4560,Green
+Rec6 20,46,245,Black
+Rec7 34,52,2345,Pink
+Rec8 17,10,170,Blue
+Rec9 7,19,133,Red
